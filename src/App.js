@@ -1,10 +1,13 @@
-import logo from './logo.svg';
+import React from 'react';
+import MultiStepForm from './components/MultiStepForm';
 import './App.css';
 
 function App() {
-  return (
-    <></>
-  );
+    return (
+        <div className="App">
+            <MultiStepForm />
+        </div>
+    );
 }
 
 export default App;
