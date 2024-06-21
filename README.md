@@ -2,6 +2,9 @@
 
 This project is a multi-step form built with React and Material UI. The form collects personal information, address information, and provides a confirmation step before submission. Data is validated, errors are handled, and form state is persisted in local storage.
 
+**Live application URL:**
+https://multi-step-form-cyan-nu.vercel.app/
+
 ## Setup Instructions
 
 1. **Clone the repository:**
